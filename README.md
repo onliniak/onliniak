@@ -4,8 +4,7 @@ I am looking for a job as Junior Tester or Junior Backend Developer.
 
 - PHP 7+ → https://github.com/onliniak/real_world_symfony
 - Security → https://app.hackthebox.com/profile/1329487
-- JS
-- HTML5/CSS2
+- JS + HTML5/CSS → https://github.com/onliniak/ICRA_POWDER_generator [Vue3]
 - Flutter [Entry level]
 - Postman API Tester [Entry level]
 - English B1 [reading]
