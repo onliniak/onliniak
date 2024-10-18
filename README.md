@@ -1,10 +1,3 @@
-# Oczekiwania
-
-Udało mi się osiągnąć wszystko co chciałem i teraz mi się nudzi. Normalnie poszedłbym do jakiejś 
-nicnieznaczącej firmy z kategorii IT. Dostałbym nowe zadania do wykonania i całą listę czego 
-jeszcze muszę się douczyć. Niestety w świecie, gdzie Ukraińcy i LGBT zawsze mają pierwszeństwo 
-przed rekrutacją Białych nie ma na to najmniejszych szans. Zgodnie z zasadą o słabszych kulturach zastępujących rasy panów. 
-
 # O projektach
 
 ### Real World Demo
@@ -67,6 +60,13 @@ których obsługą techniczną zajmował się sam Zespół. Niestety nie dali ra
 
 Gdy wszystko się skończyło miałem 6 razy więcej pieniędzy za samo trzymanie ich w Ethereum. To było lepsze niż lokaty bankowe 1%, gdzie 
 zarobiłem 3 grosze, a 2 grosze zabrali mi w ramach podatku od wzbogacenia. Wszystko rozdałem dla Społeczności. I jeszcze źle rozdałem. 
+
+# Oczekiwania
+
+Udało mi się osiągnąć wszystko co chciałem i teraz mi się nudzi. Normalnie poszedłbym do jakiejś 
+nicnieznaczącej firmy z kategorii IT. Dostałbym nowe zadania do wykonania i całą listę czego 
+jeszcze muszę się douczyć. Niestety w świecie, gdzie Ukraińcy i LGBT zawsze mają pierwszeństwo 
+przed rekrutacją Białych nie ma na to najmniejszych szans. Zgodnie z zasadą o słabszych kulturach zastępujących rasy panów. 
 
 # O Social Mediach
 
