@@ -1,3 +1,10 @@
+# Oczekiwania
+
+Udało mi się osiągnąć wszystko co chciałem i teraz mi się nudzi. Normalnie poszedłbym do jakiejś 
+nicnieznaczącej firmy z kategorii IT. Dostałbym nowe zadania do wykonania i całą listę czego 
+jeszcze muszę się douczyć. Niestety w świecie, gdzie Ukraińcy i LGBT zawsze mają pierwszeństwo 
+przed rekrutacją Białych nie ma na to najmniejszych szans. Zgodnie z zasadą o słabszych kulturach zastępujących rasy panów. 
+
 # O projektach
 
 ### Real World Demo
@@ -22,24 +29,30 @@ Kiedyś bawiłem się Vue, próbując stworzyć generator zgodny z specyfikacją
 Tak przeszedłem na Solida, gdzie mogę swobodnie edytować kod HTML. 
 Vue musi mieć cały kod wewnątrz komponentów.
 
+https://github.com/onliniak/ICRA_POWDER_generator
+
 #### GPX
 
 Miałem niby działającą zapisywaczkę śladów GPS w Flutterze. Ze względu na Xiaomi system 
 wciąż ją zabijał, gdy próbowała dziać w tle. Przeszedłem na OsmAnd. 
 
+https://github.com/onliniak/geo_tracker
+
 ### W trakcie
 
-#### Ardoonga
+#### Ardoonga aka Archipelag
 
-Powoli robię sobie szablon przeglądarkowej agnostycznej gry RPG, z dużą ilością rozszerzeń. 
+Powoli robię sobie silnik przeglądarkowej agnostycznej gry RPG, z dużą ilością rozszerzeń. 
 
 Pierwotnie:
-- Jinja
+- Jinja°
 - HTTP Requests
 - Publiczny, otwarty serwer oparty o uproszczony Blockchain
 - Licencja zgodna z GPL, żeby bezkarnie kraść gotowe treści
 
 Wedle założeń ma być na poziomie midowskim. Zobaczymy ...
+
+°Podwójnie przetwarzam HTML. 
 
 # O kryptowalutach
 
@@ -140,10 +153,3 @@ doświadczeniem jako Web Consultant Consortium Maintenance Team i Inżynier Expe
 
 Jak powszechnie wiadomo nawet żul spod Biedronki jest od nich mądrzejszy. Niestety przez kłamstwa Zachodu 
 nie jesteśmy w stanie obalić kultu wykształciuchów. Już nic nie jest w stanie im pomóc. 
-
-### Oczekiwania
-
-Udało mi się osiągnąć wszystko co chciałem i teraz mi się nudzi. Normalnie poszedłbym do jakiejś 
-nicnieznaczącej firmy z kategorii IT. Dostałbym nowe zadania do wykonania i całą listę czego 
-jeszcze muszę się douczyć. Niestety w świecie, gdzie Ukraińcy i LGBT zawsze mają pierwszeństwo 
-przed rekrutacją Białych nie ma na to najmniejszych szans. Zgodnie z zasadą o słabszych kulturach zastępujących rasy panów. 
