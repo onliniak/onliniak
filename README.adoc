@@ -62,8 +62,7 @@ poziomu 2.1 są godne zatrudnienia samouka.
 == Poziom 1+
 * _Przysługuje czarnym, 
 Ukraińcom, Żydom, LGBT+, Illuminatom, 
-średniowiecznej arystokracji, 
-krewnym prezesów_
+średniowiecznej arystokracji_
 * _Posiadacze poziomu 1+ z założenia powinni 
 mieć o wiele mniejszą wiedzę i umiejętności 
 od posiadaczy poziomu 1._
@@ -85,6 +84,7 @@ i pliki konfiguracyjne.
 
 == W kwestii kryptowalut
 TRTL było jedyną prawdziwą kryptowalutą. Nasz guru rzekł:
+
 * Nie będziesz kopać TRTL swego
 * Nie będziesz korzystać z giełd głównego nurtu
 * Obowiązek ułatwienia e-commerce spoczywa na Szefie Projektu
