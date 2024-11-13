@@ -1,5 +1,103 @@
 :toc: macro
 :toc-title:
-:toclevels: 99
+:toclevels: 3
 
 toc::[]
+
+= Samouk 0 poziomu
+_Wraz z zyskiwaniem doświadczenia ta sekcja będzie 
+odzwierciedlać me osiągnięcia_
+
+== Poziom 0 _codename_ W3C
+_Czytanie specyfikacji i jej implementacja w dowolnym języku imperatywno-obiektowym_
+
+* https://github.com/onliniak/real_world_symfony
+
+== Poziom -100 _codename_ nie-samouctwo
+* _Niedopuszczalne jest 
+korzystanie z filmów np. YouTube, 
+uczestnictwo w bootcampach,
+inne dyplomy i kursy programowania._
+
+* _Dopuszczalne jest jedynie 
+korzystanie z StackOverflow, 
+oficjalnych dokumentacji, 
+czytanie blogów._
+
+== Poziom 1 _codename_ Junior
+_Samodzielne podzielenie większego projektu na mniejsze podkategorie, 
+połączenie ich ze sobą nawzajem i bazą danych oraz dodanie testów automatycznych_
+
+=== Projekt Ardoonga
+_Nie mylić z hostingiem, który kiedyś prowadziłem pod tą samą nazwą_
+
+==== Cel
+Stworzenie silnika gier fabularnych, 
+łatwego w użyciu dla nie-technicznych 
+i niezależnego od warstwy wizualnej.
+
+W przyszłości chcę mieć możliwość 
+zamiany trybu tekstowego na grafikę 2D.
+
+==== Elementy składowe
+
+==== WebAssembly
+
+===== Serwer
+https://github.com/onliniak/crystal_wamr
+
+== Poziom 2 _codename_ Paw Patrol
+* _Zmuszanie innych do całkowitego 
+posłuszeństwa samą siłą woli._
+* _Wyłudzanie funduszy od 
+organizacji (samo)rządowych_
+
+=== Poziom 2.1
+* _Umiejętność zgadywania czego 
+oczekuje od nas pracownik_
+
+Tylko firmy, które spełniają wymagania 
+poziomu 2.1 są godne zatrudnienia samouka.
+
+== Poziom 1+
+* _Przysługuje czarnym, 
+Ukraińcom, Żydom, LGBT+, Illuminatom, 
+średniowiecznej arystokracji, 
+krewnym prezesów_
+* _Posiadacze poziomu 1+ z założenia powinni 
+mieć o wiele mniejszą wiedzę i umiejętności 
+od posiadaczy poziomu 1._
+* _Tylko im przysługuje prawo do przechwalania się 
+wszystkimi zaletami._
+
+= Dodatkowe osiągnięcia
+[Tutaj wstawię link do hakiera na HTB]
+
+TIP:: Żeby zyskać poziom hakiera wystarczy przejść 6 łatwych 
+lub średnich maszyn. Osoba na tym poziomie jest zerem totalnym.
+
+Istnieje możliwość cofnięcia do poziomu minusowego, jeśli 
+posiadacz poziomu 0 zostanie przyłapany na uprawianiu 
+socjotechniki. Prawdziwy hakier zawsze atakuje specyfikację 
+i pliki konfiguracyjne.
+
+= Ideologia
+
+== W kwestii kryptowalut
+TRTL było jedyną prawdziwą kryptowalutą. Nasz guru rzekł:
+* Nie będziesz kopać TRTL swego
+* Nie będziesz korzystać z giełd głównego nurtu
+* Obowiązek ułatwienia e-commerce spoczywa na Szefie Projektu
+* Nie będziesz się dorabiać kosztem TRTL
+** Turtle Coin jest walutą biedoty
+
+Niestety upadł jak MuchMarket. Jedyny sklep dla żartu bez Januszowania.
+
+=== Ciężka praca
+Niegodzi się kupować kryptowalut. Ja w Twoim wieku musiałem ciężko 
+klikać w reklamy całymi godzinami za mniej niż 1 grosza polskiego. 
+Duma z własnych osiągnięć pozwoliła mi zarobić pierwszą ćwierćdolarówkę 
+i obserwować jak mój majątek zyskuje trzykrotnie. 
+
+Zrozumiawszy wpływ Szatana rozdałem wszystko ... i to jeszcze źle rozdałem. 
+Trzeba było wspomóc artystów Internetowych albo inną Społeczność.
