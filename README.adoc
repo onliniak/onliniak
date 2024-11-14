@@ -1,3 +1,4 @@
+:doctype: book
 :toc: macro
 :toc-title:
 :toclevels: 3
@@ -70,7 +71,7 @@ od posiadaczy poziomu 1._
 wszystkimi zaletami._
 
 = Dodatkowe osiągnięcia
-[Tutaj wstawię link do hakiera na HTB]
+https://app.hackthebox.com/profile/1329487
 
 TIP:: Żeby zyskać poziom hakiera wystarczy przejść 6 łatwych 
 lub średnich maszyn. Osoba na tym poziomie jest zerem totalnym.
